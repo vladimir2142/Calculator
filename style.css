@@ -1,0 +1,20 @@
+button{
+	width: 100px;
+	height: 80px;
+	margin: 0px;
+	padding: 0px;
+	background-color:lightblue;
+	border-radius: 15px;
+	font-size: 40pt;
+}
+#zero{
+	width: 202px;
+}
+#calculate{
+	width: 300px;
+}
+#result{
+	font-size: 40pt;
+	text-align: right;
+}
+
